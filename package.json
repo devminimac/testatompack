@@ -1,0 +1,16 @@
+{
+  "name": "TestAtomPackage12356789",
+  "main": "./lib/xmaya191.bet",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "xmaya191.bet:toggle"
+  },
+  "repository": "https://github.com/devminimac/testatompack",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
